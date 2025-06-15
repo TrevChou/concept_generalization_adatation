@@ -1,0 +1,3 @@
+- **Joshua Goh**, joshuagoh@ntu.edu.tw, GIBMS, College of Medicine, National Taiwan University.
+- **Kuan-Ying Trevor Chou**, trevchou@gmail.com, Psychology, National Taiwan University.
+- **Yu-Shiang Su**, yushiangsu@gmail.com, University of Tokyo.
